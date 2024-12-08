@@ -17,6 +17,6 @@ The **K-Nearest Neighbors (KNN)** algorithm is a non-parametric, instance-based 
 - **Scikit-learn**: For implementing the KNN algorithm and evaluation metrics.
 - **Pandas**: For data manipulation and preparation.
 - **NumPy**: For numerical operations.
-- **Matplotlib/Seaborn**: For data visualization and result plotting.
+- **Matplotlib/Seaborn**: For data visualization and result plotting. 
 
 
